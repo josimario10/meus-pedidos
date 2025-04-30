@@ -1,0 +1,28 @@
+[
+  {
+    "id": 29,
+    "cliente": "Leideana dos Santos Rios",
+    "data": "30/04/2025 12:24",
+    "total": "133,90",
+    "status": "Pagamento Aprovado",
+    "cupom": "PRIMEIRA...",
+    "produtos": [
+      {
+        "nome": "Camisa Básica Branca",
+        "tamanho": "M",
+        "cor": "Branca",
+        "quantidade": 1,
+        "preco": "123,90",
+        "imagem": "https://via.placeholder.com/80"
+      }
+    ],
+    "endereco": {
+      "nome": "Leideana dos Santos Rios",
+      "rua": "Rua Exemplo, 123 - Bairro Centro",
+      "cidade": "Cidade - UF",
+      "cep": "00000-000",
+      "frete": "PAC",
+      "entrega": "05/05/2025"
+    }
+  }
+]
